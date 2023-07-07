@@ -14,6 +14,6 @@ By including these features in our approach, our aim to improve the efficiency a
 This solution is scalable and customizable, and we believe it has the potential to significantly enhance email management and streamline the communication process.<br>
 
 <b>Contributors:</b><br>
-Plavani Sahoo
+Plavani Sahoo, IIIT Bhubaneswar
 
 
