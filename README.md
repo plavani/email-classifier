@@ -1,5 +1,5 @@
 # Email Classifier
-<a href="#">https://emailclassifier.streamlit.app/</a><br>
+<a href="#">https://broadridgehackathonemailclassifier.streamlit.app</a><br>
 
 This is our submission for the Broadridge Hackathon, for the topic "E-Mail Classifier", from the Team Mean Coders. <br>
 The problem is to build an email categorization system that accurately classifies incoming emails based on language, spam, tone, action, and urgency. <br>
