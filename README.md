@@ -13,7 +13,7 @@ We used NLP techniques and ML algorithms for language detection, spam detection,
 By including these features in our approach, our aim to improve the efficiency and productivity of email management for individuals and organizations has been achieved. <br>
 This solution is scalable and customizable, and we believe it has the potential to significantly enhance email management and streamline the communication process.<br>
 
-Contributors:<br>
+<b>Contributors:</b><br>
 Plavani Sahoo
 
 
